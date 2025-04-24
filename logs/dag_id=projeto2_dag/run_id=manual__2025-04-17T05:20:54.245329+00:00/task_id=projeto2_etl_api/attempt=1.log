@@ -1,0 +1,13 @@
+[2025-04-17T05:20:57.458+0000] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: projeto2_dag.projeto2_etl_api manual__2025-04-17T05:20:54.245329+00:00 [queued]>
+[2025-04-17T05:20:57.471+0000] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: projeto2_dag.projeto2_etl_api manual__2025-04-17T05:20:54.245329+00:00 [queued]>
+[2025-04-17T05:20:57.472+0000] {taskinstance.py:2171} INFO - Starting attempt 1 of 2
+[2025-04-17T05:20:57.749+0000] {taskinstance.py:2192} INFO - Executing <Task(PythonOperator): projeto2_etl_api> on 2025-04-17 05:20:54.245329+00:00
+[2025-04-17T05:20:57.759+0000] {standard_task_runner.py:60} INFO - Started process 85 to run task
+[2025-04-17T05:20:57.763+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'projeto2_dag', 'projeto2_etl_api', 'manual__2025-04-17T05:20:54.245329+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/projeto2_dag.py', '--cfg-path', '/tmp/tmp69e2hr54']
+[2025-04-17T05:20:57.766+0000] {standard_task_runner.py:88} INFO - Job 9: Subtask projeto2_etl_api
+[2025-04-17T05:20:57.819+0000] {task_command.py:423} INFO - Running <TaskInstance: projeto2_dag.projeto2_etl_api manual__2025-04-17T05:20:54.245329+00:00 [running]> on host 59b164a95999
+[2025-04-17T05:20:57.900+0000] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='mariana-conterini@tuamaeaquelaursa.com' AIRFLOW_CTX_DAG_OWNER='Alexandre Polselli' AIRFLOW_CTX_DAG_ID='projeto2_dag' AIRFLOW_CTX_TASK_ID='projeto2_etl_api' AIRFLOW_CTX_EXECUTION_DATE='2025-04-17T05:20:54.245329+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-17T05:20:54.245329+00:00'
+[2025-04-17T05:20:58.289+0000] {python.py:201} INFO - Done. Returned value was: None
+[2025-04-17T05:20:58.301+0000] {taskinstance.py:1138} INFO - Marking task as SUCCESS. dag_id=projeto2_dag, task_id=projeto2_etl_api, execution_date=20250417T052054, start_date=20250417T052057, end_date=20250417T052058
+[2025-04-17T05:20:58.339+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2025-04-17T05:20:58.360+0000] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,354 @@
+[2025-04-17T05:00:04.884+0000] {processor.py:161} INFO - Started process (PID=48) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:00:04.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:00:04.892+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:04.891+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:00:07.861+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:00:08.249+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:08.248+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:projeto2_dag
+[2025-04-17T05:00:08.263+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:08.263+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:projeto2_dag
+[2025-04-17T05:00:08.270+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:08.270+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:projeto2_dag
+[2025-04-17T05:00:08.271+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:08.270+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:00:08.285+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:08.284+0000] {dag.py:3055} INFO - Creating ORM DAG for projeto2_dag
+[2025-04-17T05:00:08.296+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:08.296+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:00:07.828092+00:00, run_after=2025-04-17T06:00:07.828092+00:00
+[2025-04-17T05:00:08.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 3.434 seconds
+[2025-04-17T05:00:38.566+0000] {processor.py:161} INFO - Started process (PID=65) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:00:38.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:00:38.570+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:38.569+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:00:39.317+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:00:39.469+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:39.468+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:00:39.497+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:00:39.496+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:00:39.309898+00:00, run_after=2025-04-17T06:00:39.309898+00:00
+[2025-04-17T05:00:39.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.970 seconds
+[2025-04-17T05:01:09.726+0000] {processor.py:161} INFO - Started process (PID=74) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:01:09.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:01:09.732+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:01:09.731+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:01:10.450+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:01:10.597+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:01:10.596+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:01:10.625+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:01:10.625+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:01:10.442846+00:00, run_after=2025-04-17T06:01:10.442846+00:00
+[2025-04-17T05:01:10.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.929 seconds
+[2025-04-17T05:19:37.999+0000] {processor.py:161} INFO - Started process (PID=48) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:19:38.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:19:38.009+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:19:38.009+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:19:39.565+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:19:40.084+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:19:40.083+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:19:40.134+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:19:40.134+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:19:39.552780+00:00, run_after=2025-04-17T06:19:39.552780+00:00
+[2025-04-17T05:19:40.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 2.207 seconds
+[2025-04-17T05:20:10.318+0000] {processor.py:161} INFO - Started process (PID=65) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:20:10.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:20:10.326+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:20:10.325+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:20:10.901+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:20:11.022+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:20:11.021+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:20:11.043+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:20:11.043+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:20:10.890870+00:00, run_after=2025-04-17T06:20:10.890870+00:00
+[2025-04-17T05:20:11.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.745 seconds
+[2025-04-17T05:20:41.179+0000] {processor.py:161} INFO - Started process (PID=75) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:20:41.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:20:41.183+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:20:41.183+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:20:41.763+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:20:41.883+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:20:41.882+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:20:41.905+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:20:41.904+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:20:41.758101+00:00, run_after=2025-04-17T06:20:41.758101+00:00
+[2025-04-17T05:20:41.921+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.746 seconds
+[2025-04-17T05:21:12.117+0000] {processor.py:161} INFO - Started process (PID=85) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:21:12.119+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:21:12.123+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:21:12.123+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:21:12.945+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:21:13.128+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:21:13.127+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:21:13.157+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:21:13.157+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:21:12.937828+00:00, run_after=2025-04-17T06:21:12.937828+00:00
+[2025-04-17T05:21:13.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.072 seconds
+[2025-04-17T05:21:43.376+0000] {processor.py:161} INFO - Started process (PID=94) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:21:43.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:21:43.383+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:21:43.382+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:21:44.657+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:21:44.896+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:21:44.894+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:21:44.941+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:21:44.940+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:21:44.643466+00:00, run_after=2025-04-17T06:21:44.643466+00:00
+[2025-04-17T05:21:45.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.639 seconds
+[2025-04-17T05:22:15.147+0000] {processor.py:161} INFO - Started process (PID=105) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:22:15.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:22:15.151+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:22:15.150+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:22:15.981+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:22:16.155+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:22:16.153+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:22:16.201+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:22:16.201+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:22:15.974237+00:00, run_after=2025-04-17T06:22:15.974237+00:00
+[2025-04-17T05:22:16.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.101 seconds
+[2025-04-17T05:22:46.463+0000] {processor.py:161} INFO - Started process (PID=115) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:22:46.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:22:46.466+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:22:46.466+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:22:47.270+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:22:47.433+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:22:47.432+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:22:47.474+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:22:47.473+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:22:47.262961+00:00, run_after=2025-04-17T06:22:47.262961+00:00
+[2025-04-17T05:22:47.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.054 seconds
+[2025-04-17T05:23:17.768+0000] {processor.py:161} INFO - Started process (PID=124) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:23:17.770+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:23:17.774+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:23:17.774+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:23:18.547+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:23:18.716+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:23:18.715+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:23:18.746+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:23:18.746+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:23:18.540718+00:00, run_after=2025-04-17T06:23:18.540718+00:00
+[2025-04-17T05:23:18.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.012 seconds
+[2025-04-17T05:23:48.986+0000] {processor.py:161} INFO - Started process (PID=134) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:23:48.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:23:48.992+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:23:48.991+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:23:49.712+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:23:49.874+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:23:49.873+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:23:49.903+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:23:49.902+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:23:49.705549+00:00, run_after=2025-04-17T06:23:49.705549+00:00
+[2025-04-17T05:23:49.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.950 seconds
+[2025-04-17T05:24:20.243+0000] {processor.py:161} INFO - Started process (PID=144) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:24:20.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:24:20.254+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:24:20.253+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:24:21.690+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:24:21.917+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:24:21.915+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:24:21.975+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:24:21.974+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:24:21.679484+00:00, run_after=2025-04-17T06:24:21.679484+00:00
+[2025-04-17T05:24:22.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.814 seconds
+[2025-04-17T05:24:52.318+0000] {processor.py:161} INFO - Started process (PID=154) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:24:52.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:24:52.322+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:24:52.321+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:24:53.138+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:24:53.301+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:24:53.300+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:24:53.337+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:24:53.337+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:24:53.130034+00:00, run_after=2025-04-17T06:24:53.130034+00:00
+[2025-04-17T05:24:53.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.061 seconds
+[2025-04-17T05:25:23.667+0000] {processor.py:161} INFO - Started process (PID=164) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:25:23.669+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:25:23.672+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:25:23.672+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:25:24.841+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:25:25.069+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:25:25.067+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:25:25.123+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:25:25.122+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:25:24.833079+00:00, run_after=2025-04-17T06:25:24.833079+00:00
+[2025-04-17T05:25:25.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.512 seconds
+[2025-04-17T05:25:55.465+0000] {processor.py:161} INFO - Started process (PID=174) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:25:55.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:25:55.475+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:25:55.474+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:25:56.643+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:25:56.882+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:25:56.881+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:25:56.931+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:25:56.931+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:25:56.635500+00:00, run_after=2025-04-17T06:25:56.635500+00:00
+[2025-04-17T05:25:56.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.529 seconds
+[2025-04-17T05:26:27.311+0000] {processor.py:161} INFO - Started process (PID=184) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:26:27.314+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:26:27.318+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:26:27.317+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:26:28.107+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:26:28.269+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:26:28.267+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:26:28.304+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:26:28.303+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:26:28.097667+00:00, run_after=2025-04-17T06:26:28.097667+00:00
+[2025-04-17T05:26:28.348+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.041 seconds
+[2025-04-17T05:26:58.547+0000] {processor.py:161} INFO - Started process (PID=194) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:26:58.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:26:58.553+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:26:58.552+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:26:59.356+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:26:59.511+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:26:59.510+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:26:59.541+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:26:59.541+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:26:59.348740+00:00, run_after=2025-04-17T06:26:59.348740+00:00
+[2025-04-17T05:27:00.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 2.389 seconds
+[2025-04-17T05:27:31.191+0000] {processor.py:161} INFO - Started process (PID=204) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:27:31.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:27:31.198+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:27:31.198+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:27:32.116+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:27:32.359+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:27:32.357+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:27:32.416+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:27:32.415+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:27:32.106091+00:00, run_after=2025-04-17T06:27:32.106091+00:00
+[2025-04-17T05:27:32.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.281 seconds
+[2025-04-17T05:28:02.794+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:28:02.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:28:02.800+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:28:02.800+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:28:04.034+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:28:04.280+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:28:04.278+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:28:04.335+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:28:04.335+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:28:04.024433+00:00, run_after=2025-04-17T06:28:04.024433+00:00
+[2025-04-17T05:28:06.125+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 3.338 seconds
+[2025-04-17T05:28:36.215+0000] {processor.py:161} INFO - Started process (PID=224) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:28:36.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:28:36.219+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:28:36.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:28:36.985+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:28:37.133+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:28:37.132+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:28:37.164+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:28:37.164+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:28:36.977650+00:00, run_after=2025-04-17T06:28:36.977650+00:00
+[2025-04-17T05:28:37.199+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.991 seconds
+[2025-04-17T05:29:07.269+0000] {processor.py:161} INFO - Started process (PID=234) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:29:07.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:29:07.278+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:29:07.277+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:29:08.155+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:29:08.320+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:29:08.319+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:29:08.349+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:29:08.348+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:29:08.147815+00:00, run_after=2025-04-17T06:29:08.147815+00:00
+[2025-04-17T05:29:08.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.122 seconds
+[2025-04-17T05:29:38.697+0000] {processor.py:161} INFO - Started process (PID=244) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:29:38.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:29:38.713+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:29:38.712+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:29:39.965+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:29:40.225+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:29:40.224+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:29:40.281+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:29:40.281+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:29:39.956662+00:00, run_after=2025-04-17T06:29:39.956662+00:00
+[2025-04-17T05:29:41.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 2.545 seconds
+[2025-04-17T05:30:11.308+0000] {processor.py:161} INFO - Started process (PID=259) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:30:11.309+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:30:11.313+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:30:11.312+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:30:12.144+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:30:12.318+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:30:12.317+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:30:12.357+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:30:12.357+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:30:12.135727+00:00, run_after=2025-04-17T06:30:12.135727+00:00
+[2025-04-17T05:30:12.391+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.087 seconds
+[2025-04-17T05:30:42.474+0000] {processor.py:161} INFO - Started process (PID=269) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:30:42.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:30:42.480+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:30:42.480+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:30:43.214+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:30:43.390+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:30:43.389+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:30:43.422+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:30:43.422+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:30:43.208540+00:00, run_after=2025-04-17T06:30:43.208540+00:00
+[2025-04-17T05:30:43.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.982 seconds
+[2025-04-17T05:31:13.824+0000] {processor.py:161} INFO - Started process (PID=279) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:31:13.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:31:13.830+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:31:13.829+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:31:14.594+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:31:14.752+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:31:14.751+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:31:14.782+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:31:14.782+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:31:14.587764+00:00, run_after=2025-04-17T06:31:14.587764+00:00
+[2025-04-17T05:31:14.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.987 seconds
+[2025-04-17T05:31:44.881+0000] {processor.py:161} INFO - Started process (PID=289) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:31:44.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:31:44.887+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:31:44.886+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:31:45.679+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:31:45.834+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:31:45.833+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:31:45.863+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:31:45.863+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:31:45.671917+00:00, run_after=2025-04-17T06:31:45.671917+00:00
+[2025-04-17T05:31:46.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.679 seconds
+[2025-04-17T05:32:16.793+0000] {processor.py:161} INFO - Started process (PID=299) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:32:16.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:32:16.799+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:32:16.799+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:32:17.616+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:32:17.770+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:32:17.768+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:32:17.798+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:32:17.798+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:32:17.605976+00:00, run_after=2025-04-17T06:32:17.605976+00:00
+[2025-04-17T05:32:17.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.037 seconds
+[2025-04-17T05:32:48.060+0000] {processor.py:161} INFO - Started process (PID=308) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:32:48.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:32:48.065+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:32:48.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:32:48.803+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:32:48.972+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:32:48.970+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:32:49.003+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:32:49.002+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:32:48.796446+00:00, run_after=2025-04-17T06:32:48.796446+00:00
+[2025-04-17T05:32:49.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.995 seconds
+[2025-04-17T05:33:19.157+0000] {processor.py:161} INFO - Started process (PID=318) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:33:19.160+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:33:19.166+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:33:19.166+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:33:20.123+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:33:20.327+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:33:20.326+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:33:20.366+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:33:20.366+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:33:20.115336+00:00, run_after=2025-04-17T06:33:20.115336+00:00
+[2025-04-17T05:33:20.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.243 seconds
+[2025-04-17T05:33:50.613+0000] {processor.py:161} INFO - Started process (PID=328) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:33:50.614+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:33:50.618+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:33:50.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:33:51.415+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:33:51.585+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:33:51.584+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:33:51.619+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:33:51.618+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:33:51.409250+00:00, run_after=2025-04-17T06:33:51.409250+00:00
+[2025-04-17T05:33:51.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.050 seconds
+[2025-04-17T05:34:21.710+0000] {processor.py:161} INFO - Started process (PID=338) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:34:21.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:34:21.724+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:34:21.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:34:22.586+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:34:22.759+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:34:22.758+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:34:22.792+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:34:22.791+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:34:22.577527+00:00, run_after=2025-04-17T06:34:22.577527+00:00
+[2025-04-17T05:34:22.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.119 seconds
+[2025-04-17T05:34:53.050+0000] {processor.py:161} INFO - Started process (PID=348) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:34:53.051+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:34:53.053+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:34:53.053+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:34:53.636+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:34:53.756+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:34:53.756+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:34:53.783+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:34:53.782+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:34:53.631448+00:00, run_after=2025-04-17T06:34:53.631448+00:00
+[2025-04-17T05:34:53.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.773 seconds
+[2025-04-17T05:35:24.028+0000] {processor.py:161} INFO - Started process (PID=358) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:35:24.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:35:24.036+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:35:24.035+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:35:24.764+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:35:24.912+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:35:24.911+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:35:24.943+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:35:24.943+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:35:24.757343+00:00, run_after=2025-04-17T06:35:24.757343+00:00
+[2025-04-17T05:35:24.971+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.956 seconds
+[2025-04-17T05:35:55.089+0000] {processor.py:161} INFO - Started process (PID=368) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:35:55.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:35:55.098+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:35:55.097+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:35:55.954+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:35:56.135+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:35:56.134+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:35:56.174+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:35:56.174+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:35:55.945784+00:00, run_after=2025-04-17T06:35:55.945784+00:00
+[2025-04-17T05:35:56.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.129 seconds
+[2025-04-17T05:36:26.330+0000] {processor.py:161} INFO - Started process (PID=378) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:36:26.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:36:26.334+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:36:26.333+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:36:27.176+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:36:27.341+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:36:27.339+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:36:27.378+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:36:27.378+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:36:27.167605+00:00, run_after=2025-04-17T06:36:27.167605+00:00
+[2025-04-17T05:36:27.412+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.088 seconds
+[2025-04-17T05:36:57.635+0000] {processor.py:161} INFO - Started process (PID=388) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:36:57.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:36:57.641+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:36:57.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:36:58.449+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:36:58.623+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:36:58.622+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:36:58.653+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:36:58.653+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:36:58.442014+00:00, run_after=2025-04-17T06:36:58.442014+00:00
+[2025-04-17T05:36:58.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.055 seconds
+[2025-04-17T05:37:28.738+0000] {processor.py:161} INFO - Started process (PID=397) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:37:28.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:37:28.743+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:37:28.743+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:37:29.568+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:37:29.742+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:37:29.741+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:37:29.776+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:37:29.775+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:37:29.558489+00:00, run_after=2025-04-17T06:37:29.558489+00:00
+[2025-04-17T05:37:29.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.079 seconds
+[2025-04-17T05:38:00.011+0000] {processor.py:161} INFO - Started process (PID=407) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:38:00.676+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:38:00.680+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:38:00.680+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:38:01.506+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:38:01.678+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:38:01.676+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:38:01.713+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:38:01.712+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:38:01.500464+00:00, run_after=2025-04-17T06:38:01.500464+00:00
+[2025-04-17T05:38:01.753+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.749 seconds
+[2025-04-17T05:38:31.965+0000] {processor.py:161} INFO - Started process (PID=417) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:38:31.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:38:31.972+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:38:31.971+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:38:32.714+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:38:32.869+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:38:32.868+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:38:32.904+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:38:32.904+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:38:32.707562+00:00, run_after=2025-04-17T06:38:32.707562+00:00
+[2025-04-17T05:38:32.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.972 seconds
+[2025-04-17T05:39:03.127+0000] {processor.py:161} INFO - Started process (PID=427) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:39:03.128+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:39:03.133+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:39:03.132+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:39:03.934+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:39:04.092+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:39:04.092+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:39:04.131+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:39:04.131+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:39:03.926304+00:00, run_after=2025-04-17T06:39:03.926304+00:00
+[2025-04-17T05:39:04.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.051 seconds
+[2025-04-17T05:39:34.372+0000] {processor.py:161} INFO - Started process (PID=437) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:39:34.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:39:34.378+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:39:34.378+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:39:35.177+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:39:35.346+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:39:35.344+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:39:35.381+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:39:35.380+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:39:35.169990+00:00, run_after=2025-04-17T06:39:35.169990+00:00
+[2025-04-17T05:39:35.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.055 seconds
+[2025-04-17T05:40:05.689+0000] {processor.py:161} INFO - Started process (PID=447) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:40:05.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:40:05.696+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:40:05.695+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:40:06.885+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:40:07.157+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:40:07.155+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:40:07.213+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:40:07.213+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:40:06.874155+00:00, run_after=2025-04-17T06:40:06.874155+00:00
+[2025-04-17T05:40:07.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.598 seconds
+[2025-04-17T05:40:37.572+0000] {processor.py:161} INFO - Started process (PID=457) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:40:37.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:40:37.582+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:40:37.581+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:40:38.508+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:40:38.722+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:40:38.721+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:40:38.753+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:40:38.753+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:40:38.500791+00:00, run_after=2025-04-17T06:40:38.500791+00:00
+[2025-04-17T05:40:38.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.237 seconds
+[2025-04-17T05:41:08.997+0000] {processor.py:161} INFO - Started process (PID=467) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:41:08.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:41:09.003+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:41:09.002+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:41:09.808+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:41:09.960+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:41:09.959+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:41:09.998+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:41:09.997+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:41:09.801251+00:00, run_after=2025-04-17T06:41:09.801251+00:00
+[2025-04-17T05:41:10.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.034 seconds
+[2025-04-17T05:41:40.222+0000] {processor.py:161} INFO - Started process (PID=477) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:41:40.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:41:40.228+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:41:40.227+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:41:40.962+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:41:41.110+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:41:41.110+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:41:41.141+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:41:41.141+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:41:40.956254+00:00, run_after=2025-04-17T06:41:40.956254+00:00
+[2025-04-17T05:41:41.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 0.951 seconds
+[2025-04-17T05:42:11.385+0000] {processor.py:161} INFO - Started process (PID=487) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:42:11.386+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:42:11.389+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:42:11.389+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:42:12.414+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:42:12.602+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:42:12.601+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:42:12.634+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:42:12.634+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:42:12.406893+00:00, run_after=2025-04-17T06:42:12.406893+00:00
+[2025-04-17T05:42:12.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.281 seconds
+[2025-04-17T05:42:42.915+0000] {processor.py:161} INFO - Started process (PID=503) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:42:42.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:42:42.922+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:42:42.922+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:42:43.711+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:42:43.869+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:42:43.868+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:42:43.897+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:42:43.897+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:42:43.704576+00:00, run_after=2025-04-17T06:42:43.704576+00:00
+[2025-04-17T05:42:43.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.014 seconds
+[2025-04-17T05:43:14.157+0000] {processor.py:161} INFO - Started process (PID=513) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:43:14.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:43:14.162+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:43:14.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:43:14.957+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:43:15.113+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:43:15.112+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:43:15.144+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:43:15.144+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:43:14.950518+00:00, run_after=2025-04-17T06:43:14.950518+00:00
+[2025-04-17T05:43:15.169+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.016 seconds
+[2025-04-17T05:43:45.444+0000] {processor.py:161} INFO - Started process (PID=522) to work on /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:43:45.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/projeto2_dag.py for tasks to queue
+[2025-04-17T05:43:45.451+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:43:45.450+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:43:46.468+0000] {processor.py:840} INFO - DAG(s) 'projeto2_dag' retrieved from /opt/airflow/dags/projeto2_dag.py
+[2025-04-17T05:43:46.739+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:43:46.737+0000] {dag.py:3033} INFO - Sync 1 DAGs
+[2025-04-17T05:43:46.803+0000] {logging_mixin.py:188} INFO - [2025-04-17T05:43:46.803+0000] {dag.py:3820} INFO - Setting next_dagrun for projeto2_dag to 2025-04-17T05:43:46.453445+00:00, run_after=2025-04-17T06:43:46.453445+00:00
+[2025-04-17T05:43:46.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/projeto2_dag.py took 1.432 seconds
